@@ -7,7 +7,7 @@
 --]]
 
 -- **
--- In case you are interested in the logic, read this file from the bottom - up direction. 
+-- In case you are interested in the logic, read this file from bottom - up direction. 
 -- Good luck!
 -- **
 
@@ -27,7 +27,7 @@ end
 local catalog = LrApplication.activeCatalog()
 
 -- Name of the master collection
-local masterCollectionName = "All Files1"
+local masterCollectionName = "All Files"
 
 -- Time period for which the files are organised as collections.
 local yearStart = 2000
