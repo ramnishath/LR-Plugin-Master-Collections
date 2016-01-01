@@ -3,8 +3,11 @@ Light Room Plugin for creating Collections grouped by Year
 
 ## Installation steps
 
-Download the project files into a folder with a suffix of .lrplugin; for example, masterCollections.lrplugin.
-Open Light Room (LR) and Go to Plugin Manager. A dialog window opens, click 'Add'. On the next window open the above mentioned folder.
+- Download the project files into a folder with a suffix of .lrplugin; for example, masterCollections.lrplugin.
+- Open Light Room (LR) and Go to Plugin Manager. 
+  - A dialog window opens, click 'Add'. 
+  - On the next window open the above mentioned folder. Final view will look like below, click Done.
+![alt plugin manager light room](doc/pluginManager.png)
 
 ## Plugin in Action
 
