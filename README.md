@@ -20,7 +20,7 @@ Light Room Plugin for creating Collections grouped by Year
 
 ![alt master collections in light room](doc/collections.png)
 
-More smart collections can be in corporated into this plugin, see source files for more details.
+More smart collections can be incorporated into this plugin, see source files for more details.
 
 This plugin can be executed multiple times. Please note that already existing collections will not be updated. 
 As of now the script creates collections till 2016.
