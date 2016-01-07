@@ -27,7 +27,9 @@ As of now the script creates collections till 2016.
 
 Log file 'smartCollections.log' will be stored under 'Documents' folder.
 
-The plugin has been tested using Light Room 5 in Mac OS X El Capitan.
+The plugin has been tested in below versions 
+- Lightroom 5 in Mac OS X El Capitan
+- Lightroom version: CC 2015.3 (Mac OS X El Capitan - Version 10.11.3 Beta)
 
 ### Future Enhancements
 
